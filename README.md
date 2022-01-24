@@ -1,5 +1,5 @@
 
-# Projeto de Análise de Algoritmo
+# Projeto e Análise de Algoritmo
 
 ## Análises gráficas
 <div>
